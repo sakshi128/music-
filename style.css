@@ -1,0 +1,108 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: 'Red Hat Display', sans-serif;
+  background-color: #e0e8ff;
+
+}
+.main-div{
+  text-align: center;
+  background-image: url("pattern-background-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 2rem;
+  }
+.h1{
+    font-weight: 900;
+    font-weight: bold;
+}
+.a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
+.hero-img{
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  width: 100%;
+}
+.p{
+  text-decoration-color: #7280A7;
+  color :#7280A7;
+  line-height: 2;
+
+}
+.main-para{
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+.annual-div{
+  width: 100px;
+}
+.annual-div h3 {
+  margin: 0;
+    margin-top: 20px;
+}
+.annual-div p{
+  font-weight: 600;
+  margin: 5px;
+  margin-bottom: 15px;
+}
+.frame-div{
+  text-align: center;
+  margin:auto;
+  border-radius: 50px;
+  width: 30%;
+  background-color: white;
+   }
+
+   .bottom-div{
+     background-color:#f5f7ff;
+     border-radius: 8%;
+     margin: 8% 8%;
+     display: flex;
+     padding: 0 10px 10px 10px;
+   }
+
+.music-div{
+  margin-top: 1.625rem;
+  padding-right: 1rem;
+}
+.change-div{
+  margin-top:1.625rem;
+  margin-left: 1.625rem;
+}
+   .btn {
+     background: #1d40ed;
+     background-image: -webkit-linear-gradient(top, #1d40ed, #1d40ed);
+     background-image: -moz-linear-gradient(top, #1d40ed, #1d40ed);
+     background-image: -ms-linear-gradient(top, #1d40ed, #1d40ed);
+     background-image: -o-linear-gradient(top, #1d40ed, #1d40ed);
+     background-image: linear-gradient(to bottom, #1d40ed, #1d40ed);
+     -webkit-border-radius: 12;
+     -moz-border-radius: 12;
+     border-style: none;
+     border-radius: 12px;
+     font-family: Arial;
+     color: #ffffff;
+     font-size: 20px;
+     padding: 10px 40px 10px 40px;
+     text-decoration: none;
+     cursor: pointer;
+   }
+
+   .btn:hover {
+     text-decoration: none;
+   }
+   .btn1 {
+  font-family: Arial;
+  color: #666666;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 20px 60px 21px 60px;
+  text-decoration: none;
+  border-style: none;
+  cursor:pointer;
+}
